@@ -104,5 +104,5 @@ pip install -r requirements.txt
 
 ```
 ## Contributers
-- mouhamadoufadiop (Mouhamadou Fadilou Diop)
-- [alassall](https://learn.zone01dakar.sn/git/alassall) (Alassane Sall)
+- [mabalde] (https://learn.zone01dakar.sn/git/mabalde)
+- [ediallo](https://learn.zone01dakar.sn/git/ediallo) 
