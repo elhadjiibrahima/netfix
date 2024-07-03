@@ -27,6 +27,10 @@ To run the application, execute the following command in the project directory:
 
 ```bash
 curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+python3 get-pip.py --user
+export PATH=$PATH:~/.local/bin
+echo 'export PATH=$PATH:~/.local/bin' >> ~/.zshrc
+source ~/.zshrc
 pip install --user virtualenv
 virtualenv env
 source env/bin/activate
