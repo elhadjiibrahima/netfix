@@ -16,10 +16,6 @@ Netfix, service marketplace is a Django-based web application designed to connec
 
 Ensure that you have [Python 4.x](https://www.python.org/downloads/) and [pip](https://pip.pypa.io/en/stable/installation/) installed on your machine. Clone the repository, navigate to the project directory, and install the required packages using the following commands:
 
-```bash
-git clone https://learn.zone01dakar.sn/git/mabalde/netfix
-cd netfix
-```
 
 ## Usage
 
